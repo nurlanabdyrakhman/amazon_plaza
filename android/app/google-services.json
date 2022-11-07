@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954935895311",
+    "project_id": "plaza-80235",
+    "storage_bucket": "plaza-80235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954935895311:android:beb5428d2a50d7a10dca7a",
+        "android_client_info": {
+          "package_name": "com.example.amazon_plaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954935895311-jdl9e6fugqngb152th9j6ni3upquheq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD537kwcZ3DphehLNXgLGiwKhNFvEALyQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954935895311-jdl9e6fugqngb152th9j6ni3upquheq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

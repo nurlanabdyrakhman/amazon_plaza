@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>954935895311-klo3cf5sagm8g2i6o9078ov7n99v51mv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.954935895311-klo3cf5sagm8g2i6o9078ov7n99v51mv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0bOYIe5l_cxmSTpWADeFkc-c16EU9juU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>954935895311</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.amazonPlaza</string>
+	<key>PROJECT_ID</key>
+	<string>plaza-80235</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plaza-80235.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:954935895311:ios:a3eba1ef42e7a3430dca7a</string>
+</dict>
+</plist>
